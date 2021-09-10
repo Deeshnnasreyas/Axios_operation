@@ -1,0 +1,25 @@
+.grid{
+  margin: auto;
+  padding: 50px;
+  display: flex;
+  border: solid 5px blueviolet;
+  background-color: rgb(189, 177, 201);
+
+
+  /* grid-row: auto; */
+
+}
+button{
+  margin-left: 30px;
+  font-size: larger;
+  padding: 10px;
+  color: aqua;
+  width: 200px;
+  height: 50px;
+  background-color: black;
+}
+h1{
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+}
